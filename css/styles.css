@@ -1,5 +1,5 @@
-:root {
-}
+/* :root {
+} */
 /* Спрятанные заголовки */
 .visually-hidden {
   position: absolute;
@@ -14,6 +14,24 @@
   margin: -1px;
 }
 
+.second-topic
+
+
+/* header */
+
+/* header */
+
+/* header */
+
+/* header */
+
+/* header */
+
+/* header */
+
+/* header */
+
+/* header */
 
 header
 header-nav
@@ -25,3 +43,29 @@ nav-item
 nav-item-link
 nav-contact
 nav-contact-link
+
+/* main */
+.hero
+.hero-idea
+.hero-btn
+
+/* Преимущества*/
+.excellence
+.excellence-list
+.excellence-item
+.excellence-point
+.excellence-txt;
+
+/* Примеры */
+.exx .exx-list .exx-item;
+
+/* Наша команда */
+.team .team-list .team-item;
+.team-name;
+.team-posicion;
+
+/* footer */
+.footer;
+.address;
+.address-list .address-item;
+.address-link;
