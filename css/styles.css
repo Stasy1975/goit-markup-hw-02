@@ -13,59 +13,79 @@
   clip-path: inset(50%);
   margin: -1px;
 }
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 71;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background: #ffffff;
+}
 
-.second-topic
+.second-topic {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+}
 
+/* Header */
+.header {
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+/* .header-nav */
+.link-logo {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+}
+.logo-front {
+  color: #2196f3;
+}
+.logo-end {
+  color: #000000;
+}
 
-/* header */
+.nav-list {
+}
+.nav-item-link {
+}
 
-/* header */
-
-/* header */
-
-/* header */
-
-/* header */
-
-/* header */
-
-/* header */
-
-/* header */
-
-header
-header-nav
-link-logo
-logo-front
-logo-end
-nav-list
+/* 
 nav-item
-nav-item-link
+
 nav-contact
 nav-contact-link
 
 /* main */
-.hero
+/* .hero
 .hero-idea
-.hero-btn
+.hero-btn */
 
 /* Преимущества*/
-.excellence
+/* .excellence
 .excellence-list
 .excellence-item
 .excellence-point
-.excellence-txt;
+.excellence-txt; */
 
 /* Примеры */
-.exx .exx-list .exx-item;
+/* .exx .exx-list .exx-item; */
 
 /* Наша команда */
-.team .team-list .team-item;
+/* .team .team-list .team-item;
 .team-name;
-.team-posicion;
+.team-posicion; */
 
 /* footer */
-.footer;
+/* .footer;
 .address;
 .address-list .address-item;
-.address-link;
+.address-link; */
