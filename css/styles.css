@@ -1,6 +1,6 @@
 :root {
 }
-
+/* Спрятанные заголовки */
 .visually-hidden {
   position: absolute;
   white-space: nowrap;
@@ -13,3 +13,15 @@
   clip-path: inset(50%);
   margin: -1px;
 }
+
+
+header
+header-nav
+link-logo
+logo-front
+logo-end
+nav-list
+nav-item
+nav-item-link
+nav-contact
+nav-contact-link
